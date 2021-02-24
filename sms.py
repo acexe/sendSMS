@@ -1,8 +1,3 @@
-####################
-# github.com/acexe #
-####################
-
-
 import sys
 import socket
 import platform
